@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Bluetooth Headphones",
+        "price": 1000.00,
+        "quantity": 50
+    },
+    {
+        "name": "Smartphone",
+        "price": 100.00,
+        "quantity": 100
+    },
+    {
+        "name": "Laptop",
+        "price": 100000.00,
+        "quantity": 30
+    },
+    {
+        "name": "Tablet",
+        "price": 10000.00,
+        "quantity": 20
+    },
+    {
+        "name": "Smartwatch",
+        "price": 20000.00,
+        "quantity": 10
+    },
+    {
+        "name": "Power Bank",
+        "price": 1000.00,
+        "quantity": 50
+    },
+    {
+        "name": "Earbuds",
+        "price": 100.00,
+        "quantity": 100
+    },
+    {
+        "name": "Smart Speaker",
+        "price": 1000.00,
+        "quantity": 20
+    },
+    {
+        "name": "Wireless Keyboard",
+        "price": 1000.00,
+        "quantity": 30
+    },
+    {
+        "name": "Charge Cable",
+        "price": 100.00,
+        "quantity": 40
+    }
+]

@@ -1,0 +1,72 @@
+### Example 1: Update a product with a seasonal discount
+```json
+{
+    "productId": 1,
+    "discountType": "flat",
+    "discountValue": 15.0,
+    "seasonalDiscountActive": true
+}
+```
+### Example 2: Update a product with a percentage discount
+```json
+{
+    "productId": 2,
+    "discountType": "percentage",
+    "discountValue": 10.0,
+    "seasonalDiscountActive": false
+}
+```
+### Example 3: Update a product with a percentage discount and a seasonal discount
+```json
+{
+    "productId": 3,
+    "discountType": "percentage",
+    "discountValue": 10.0,
+    "seasonalDiscountActive": true
+}
+```
+### Example 4: Update a product with no discount
+```json
+{
+    "productId": 4,
+    "discountType": "none",
+    "discountValue": 0.0,
+    "seasonalDiscountActive": false
+}
+```
+### Example 5: Update a product with a seasonal discount and no discount value
+```json
+{
+    "productId": 5,
+    "discountType": "flat",
+    "discountValue": 0.0,
+    "seasonalDiscountActive": true
+}
+```
+### Example 6: Update a product with a percentage discount and no discount value
+```json
+{
+    "productId": 6,
+    "discountType": "percentage",
+    "discountValue": 0.0,
+    "seasonalDiscountActive": false
+}
+```
+### Example 7: Update a product with a percentage discount, a seasonal discount and no discount value
+```json
+{
+    "productId": 7,
+    "discountType": "percentage",
+    "discountValue": 0.0,
+    "seasonalDiscountActive": true
+}
+```
+### Example 8: Update a product with a flat discount and no discount value
+```json
+{
+    "productId": 8,
+    "discountType": "flat",
+    "discountValue": 0.0,
+    "seasonalDiscountActive": false
+}
+```
